@@ -1,0 +1,59 @@
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\obj\Debug\InspectIT.csprojResolveAssemblyReference.cache
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\bin\InspectIT.dll.config
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\bin\InspectIT.dll
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\bin\InspectIT.pdb
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\obj\Debug\InspectIT.dll
+D:\Development\Verconsult\InspectIT\Inspect IT\InspectIT\obj\Debug\InspectIT.pdb
+C:\Users\VEE\Documents\Inspect IT\InspectIT\bin\InspectIT.dll.config
+C:\Users\VEE\Documents\Inspect IT\InspectIT\bin\InspectIT.dll
+C:\Users\VEE\Documents\Inspect IT\InspectIT\bin\InspectIT.pdb
+C:\Users\VEE\Documents\Inspect IT\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VEE\Documents\Inspect IT\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VEE\Documents\Inspect IT\InspectIT\obj\Debug\InspectIT.dll
+C:\Users\VEE\Documents\Inspect IT\InspectIT\obj\Debug\InspectIT.pdb
+C:\Users\VEE\Documents\Inspect IT\InspectIT\obj\Debug\InspectIT.csprojResolveAssemblyReference.cache
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\bin\InspectIT.dll.config
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\bin\InspectIT.dll
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\bin\InspectIT.pdb
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\obj\Debug\InspectIT.dll
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\obj\Debug\InspectIT.pdb
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\bin\Newtonsoft.Json.dll
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\bin\Newtonsoft.Json.xml
+C:\Users\VEE\Documents\ITOP\Inspect IT\InspectIT\obj\Debug\InspectIT.csprojResolveAssemblyReference.cache
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\bin\InspectIT.dll.config
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\bin\InspectIT.dll
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\bin\InspectIT.pdb
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\bin\Newtonsoft.Json.dll
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\bin\Newtonsoft.Json.xml
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\obj\Debug\InspectIT.csprojResolveAssemblyReference.cache
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\obj\Debug\InspectIT.dll
+C:\Users\VEE\Documents\ITOP\InspectITFix\InspectIT\obj\Debug\InspectIT.pdb
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\bin\InspectIT.dll.config
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\bin\InspectIT.dll
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\bin\InspectIT.pdb
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\bin\Newtonsoft.Json.dll
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\bin\Newtonsoft.Json.xml
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\obj\Debug\InspectIT.csprojResolveAssemblyReference.cache
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\obj\Debug\InspectIT.dll
+C:\Users\VEE\Documents\ITOP\inspectit\InspectIT\obj\Debug\InspectIT.pdb
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\InspectIT.dll.config
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\InspectIT.dll
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\InspectIT.pdb
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\obj\Debug\InspectIT.dll
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\obj\Debug\InspectIT.pdb
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\obj\Debug\InspectIT.csprojResolveAssemblyReference.cache
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\GoogleQRGenerator.dll
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\zxing.dll
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\zxing.presentation.dll
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\zxing.pdb
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\zxing.xml
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\zxing.presentation.pdb
+C:\Users\mathewp\Documents\GitHub\inspectit\InspectIT\bin\zxing.presentation.xml
